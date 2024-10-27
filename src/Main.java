@@ -10,15 +10,15 @@ public class Main {
 
         do{
             System.out.println("\n--------MENU---------");
-            System.out.println("1. Ingresar estudiante");
-            System.out.println("2. Ingresar ciudadano");
+            System.out.println("1. Ingresar estudiantes");
+            System.out.println("2. Ingresar ciudadanos");
             System.out.println("3. Ingresar mascota");
-            System.out.println("4. Modificar los valores del estudiante");
-            System.out.println("5. Modificar los valores del ciudadano");
-            System.out.println("6. Modificar los valores del mascota");
-            System.out.println("7. imprimir los valores de estudiante");
-            System.out.println("8. imprimir los valores de ciudadano");
-            System.out.println("9. imprimir los valores de mascota");
+            System.out.println("4. Modificar los valores de los estudiantes");
+            System.out.println("5. Modificar los valores de los ciudadanos");
+            System.out.println("6. Modificar los valores de las mascotas");
+            System.out.println("7. imprimir los valores de los estudiantes");
+            System.out.println("8. imprimir los valores de los ciudadano");
+            System.out.println("9. imprimir los valores de los mascota");
             System.out.println("0. Salir");
             option = scanner.nextInt();
             scanner.nextLine();
